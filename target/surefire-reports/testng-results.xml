@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+      <class name="nayaproject.restapiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:nayaproject.restapiTest@2ed94a8b]" name="deleteTwitter" duration-ms="6" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:nayaproject.restapiTest@2ed94a8b]" name="postJira" duration-ms="1" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- nayaproject.restapiTest -->
+      <class name="nayaproject.seleniumTest">
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:nayaproject.seleniumTest@38082d64]" name="elementUI" duration-ms="0" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+        <test-method status="PASS" signature="BrowserAutomaion()[pri:0, instance:nayaproject.seleniumTest@38082d64]" name="BrowserAutomaion" duration-ms="0" started-at="2018-11-22T19:00:07Z" finished-at="2018-11-22T19:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomaion -->
+      </class> <!-- nayaproject.seleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
